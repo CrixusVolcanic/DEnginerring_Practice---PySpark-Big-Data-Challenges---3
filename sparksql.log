@@ -1,0 +1,53 @@
+2024-12-10 11:37:50,194 - SparkSql - INFO - Process started
+2024-12-10 11:43:01,848 - SparkSql - INFO - Process started
+2024-12-10 11:48:31,660 - SparkSql - INFO - Process started
+2024-12-10 11:48:49,685 - SparkSql - INFO - Process started
+2024-12-10 11:49:11,318 - SparkSql - INFO - Process started
+2024-12-10 11:49:28,921 - SparkSql - INFO - Process started
+2024-12-10 11:52:48,035 - SparkSql - INFO - Process started
+2024-12-10 11:52:54,405 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:02:28,223 - SparkSql - INFO - Process started
+2024-12-10 12:02:34,287 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:02:58,685 - SparkSql - INFO - Process started
+2024-12-10 12:03:06,350 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:03:29,247 - SparkSql - INFO - Process started
+2024-12-10 12:03:35,210 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:03:48,761 - SparkSql - INFO - Process started
+2024-12-10 12:03:54,901 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:04:19,084 - SparkSql - INFO - Process started
+2024-12-10 12:04:25,108 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:04:52,880 - SparkSql - INFO - Process started
+2024-12-10 12:04:59,084 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:04:59,236 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:05:47,877 - SparkSql - INFO - Process started
+2024-12-10 12:05:53,960 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:05:54,121 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:08:55,097 - SparkSql - INFO - Process started
+2024-12-10 12:09:01,362 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:09:01,524 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:09:29,299 - SparkSql - INFO - Process started
+2024-12-10 12:09:35,322 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:09:35,471 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:10:21,211 - SparkSql - INFO - Process started
+2024-12-10 12:10:27,630 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:10:27,894 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:11:42,745 - SparkSql - INFO - Process started
+2024-12-10 12:11:48,867 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:11:49,026 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:12:33,107 - SparkSql - INFO - Process started
+2024-12-10 12:12:39,182 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:13:48,310 - SparkSql - INFO - Process started
+2024-12-10 12:13:54,521 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:13:54,677 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:14:31,270 - SparkSql - INFO - Process started
+2024-12-10 12:14:37,415 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:14:37,570 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:19:07,858 - SparkSql - INFO - Process started
+2024-12-10 12:19:14,296 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:19:14,446 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:19:17,340 - SparkSql - INFO - Data aggregations has been done
+2024-12-10 12:20:13,903 - SparkSql - INFO - Process started
+2024-12-10 12:20:20,546 - SparkSql - INFO - The data has been loaded
+2024-12-10 12:20:20,722 - SparkSql - INFO - The data transformation has been done
+2024-12-10 12:20:24,522 - SparkSql - INFO - Data aggregations has been done
+2024-12-10 12:20:37,453 - SparkSql - INFO - The results has been export, the format is parquet partition by Year/Country

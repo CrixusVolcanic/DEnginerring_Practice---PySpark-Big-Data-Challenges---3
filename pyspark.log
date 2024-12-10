@@ -1,0 +1,10 @@
+2024-12-10 11:25:43,590 - PySpark - INFO - Process started
+2024-12-10 11:26:04,323 - PySpark - INFO - Process started
+2024-12-10 11:26:07,032 - PySpark - INFO - The file resources/clientes_reducido.csv has been loaded
+2024-12-10 11:26:53,068 - PySpark - INFO - Process started
+2024-12-10 11:26:55,669 - PySpark - INFO - The file resources/clientes_reducido.csv has been loaded
+2024-12-10 11:28:41,865 - PySpark - INFO - Process started
+2024-12-10 11:28:48,786 - PySpark - INFO - The data has been loaded
+2024-12-10 11:28:48,892 - PySpark - INFO - The data transformation has been done
+2024-12-10 11:28:51,594 - PySpark - INFO - Data aggregations has been done
+2024-12-10 11:29:04,074 - PySpark - INFO - The results has been export, the format is parquet partition by Year/Country
