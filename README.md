@@ -43,15 +43,11 @@ Este proyecto es parte de un conjunto de retos semanales enfocados en mejorar ha
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/CrixusVolcanic/Challenge-3-PySpark.git
+   git clone https://github.com/CrixusVolcanic/DEnginerring_Practice---PySpark-Big-Data-Challenges---3.git
    cd Challenge-3-PySpark
    ```
 
-2. **Instala las dependencias**:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Verifica que PySpark esté instalado**:
 
@@ -120,10 +116,3 @@ df.groupBy("currency").count().show()
 
 - **Davian Bermudez**  
   Data Engineer apasionada por aprender y crecer en el ecosistema de Big Data.
-
----
-
-## 🎯 Próximos Pasos
-
-- Mejorar la gestión de errores al leer datos.
-- Añadir más análisis como funciones de ventana y joins avanzados.
